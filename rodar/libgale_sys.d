@@ -1,0 +1,1 @@
+D:\gale_OS\gale_sys\target\x86_64-gale_os\release\libgale_sys.rlib: D:\gale_OS\gale_sys\src\combined_allocator.rs D:\gale_OS\gale_sys\src\gdt.rs D:\gale_OS\gale_sys\src\interrupts.rs D:\gale_OS\gale_sys\src\lib.rs D:\gale_OS\gale_sys\src\memory.rs D:\gale_OS\gale_sys\src\serial.rs D:\gale_OS\gale_sys\src\vga_buffer.rs
