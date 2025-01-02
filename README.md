@@ -10,7 +10,7 @@ eu não tenho muito conhecimento para fazer um por conta própria ainda e não t
 
 eu deixei propositalmente sem alguns arquivos como o target e cargo.lock.
 
-para quem quiser testá-lo o llvm target era "x86_64-unknown-none". Você precisa rodar rust embarcado, ou seja, com no-std e etc..
+para quem quiser testá-lo o llvm target era "x86_64-unknown-none" e o boot não roda UEFI. Você precisa rodar rust embarcado, ou seja, com no-std e etc..
 veja o blog do phil que você entenderá melhor e até conseguirá executar meu projeto.
 
 # Este projeto receberá atualizações no futuro.
