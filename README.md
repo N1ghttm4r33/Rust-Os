@@ -10,4 +10,6 @@ eu não tenho muito conhecimento para fazer um por conta própria ainda e não t
 
 eu deixei propositalmente sem alguns arquivos como o target e cargo.lock.
 
+para quem quiser testá-lo o llvm target era "x86_64-unknown-none".
+
 # Este projeto receberá atualizações no futuro.
